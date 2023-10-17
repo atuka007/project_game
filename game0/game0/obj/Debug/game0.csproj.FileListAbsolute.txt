@@ -1,0 +1,11 @@
+C:\Users\хайруллинаф\source\repos\game0\game0\obj\Debug\game0.csproj.AssemblyReference.cache
+C:\Users\хайруллинаф\source\repos\game0\game0\obj\Debug\game0.Form1.resources
+C:\Users\хайруллинаф\source\repos\game0\game0\obj\Debug\game0.Properties.Resources.resources
+C:\Users\хайруллинаф\source\repos\game0\game0\obj\Debug\game0.csproj.GenerateResource.cache
+C:\Users\хайруллинаф\source\repos\game0\game0\obj\Debug\game0.csproj.CoreCompileInputs.cache
+C:\Users\хайруллинаф\source\repos\game0\game0\obj\Debug\game0.Form2.resources
+C:\Users\хайруллинаф\source\repos\game0\game0\bin\Debug\poker.exe.config
+C:\Users\хайруллинаф\source\repos\game0\game0\bin\Debug\poker.exe
+C:\Users\хайруллинаф\source\repos\game0\game0\bin\Debug\poker.pdb
+C:\Users\хайруллинаф\source\repos\game0\game0\obj\Debug\poker.exe
+C:\Users\хайруллинаф\source\repos\game0\game0\obj\Debug\poker.pdb
